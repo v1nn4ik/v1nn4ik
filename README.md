@@ -8,7 +8,6 @@
 
 ![](https://komarev.com/ghpvc/?username=v1nn4ik&label=Profile%20views&color=1a1b27&style=flat)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=v1nn4ik&label=Profile%20views&color=1a1b27&style=flat" alt="v1nn4ik" /> </p>
 
 
 
