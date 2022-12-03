@@ -5,8 +5,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=v1nn4ik&hide=contribs&show_icons=true&theme=tokyonight&locale=en)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=v1nn4ik&show_icons=true&theme=radical&locale=en&layout=compact)
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=v1nn4ik&hide=contribs&show_icons=true&theme=tokyonight&locale=en" alt="v1nn4ik" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=v1nn4ik&show_icons=true&theme=radical&locale=en&layout=compact" alt="v1nn4ik" /></p>
+
 
 
 
