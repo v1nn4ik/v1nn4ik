@@ -1,5 +1,3 @@
-**I'm Konstantin, Developer from Russian Federation**<br>
-
 ## Hello, Привет 👋
 
 ### I'm Konstantin, a novice developer from Russia Federation <img src="/planet.svg" width=20 height=20>
@@ -11,15 +9,4 @@
 
 ![](https://komarev.com/ghpvc/?username=v1nn4ik&label=Profile%20views&color=1a1b27&style=flat)
 
-
-
-
-
-**I'm Nikita, <img src="/svg/python-color.svg" width=20 height=20> Python Developer from Russian Federation**<br>
-
-
-
-
-
-You also can check public repos that pinned below this text
 Thank you and enjoy ❤️
