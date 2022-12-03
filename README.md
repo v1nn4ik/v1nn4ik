@@ -6,7 +6,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=v1nn4ik&hide=contribs&hide_title=true&hide_border=true&show_icons=true&theme=tokyonight&locale=en)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=v1nn4ik&hide_border=true&show_icons=true&theme=radical&locale=en&layout=compact&bg_color=1a1b27)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=v1nn4ik&label=Profile%20views&color=35aea1&style=flat&bg_color=1a1b27" alt="v1nn4ik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=v1nn4ik&label=Profile%20views&color=35aea1&style=flat" alt="v1nn4ik" /> </p>
 
 
 
