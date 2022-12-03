@@ -6,6 +6,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=v1nn4ik&hide=contribs&hide_title=true&hide_border=true&show_icons=true&theme=tokyonight&locale=en)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=v1nn4ik&hide_border=true&show_icons=true&theme=radical&locale=en&layout=compact&bg_color=1a1b27)
 
+![](https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v1nn4ik&label=Profile%20views&color=1a1b27&style=flat" alt="v1nn4ik" /> </p>
 
 
